@@ -1,4 +1,4 @@
-class Chain{
+class SlingShot{
     constructor(bodyA, bodyB){
         var options = {
             bodyA: bodyA,
